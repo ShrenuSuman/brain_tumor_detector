@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @ShrenuSuman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ShrenuSuman/ShrenuSuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developed a machine learning-based brain tumor detection system.
+Conducted research on image processing techniques for preprocessing medical images.
+Implemented feature extraction algorithms to extract relevant features from MRI scans.
+Utilized machine learning algorithms for training and testing the detection model.
+Successfully developed a brain tumor detection system with an accuracy of 88% on the test set.
+Created a user-friendly interface for uploading and analyzing brain MRI scans.
+Received positive feedback from medical professionals regarding the system's performance and usability.
+Contributed to the early detection of brain tumors, potentially improving patient outcomes and survival rates.
+Presented the project at a conference or published a research paper to share the findings and promote further advancements in the field.
